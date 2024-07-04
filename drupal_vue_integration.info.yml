@@ -1,0 +1,5 @@
+name: 'drupal vue integration'
+type: module
+description: 'A custom module to integrate Vue.js'
+package: Custom
+core_version_requirement: ^8 || ^9 || ^10

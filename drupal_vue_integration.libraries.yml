@@ -1,0 +1,9 @@
+drupal_vue_integration:
+  version: 1.0
+  css:
+    theme:
+      css/style.css: {}
+  js:
+    js/app.js: {}
+  dependencies:
+    - core/jquery
