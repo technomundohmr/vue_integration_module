@@ -8,7 +8,7 @@ Ensure Drupal 10 is installed and running.
 Node.js and npm should be installed on your development environment.
 Install the Module:
 
-Download or clone the module into your Drupal installation's /modules/custom/ directory.
+Download or clone the module https://github.com/technomundohmr/vue_integration_module into your Drupal installation's /modules/custom/ directory.
 
 bash
 Copiar código
@@ -56,4 +56,4 @@ Drupal API References
 Contributing
 Report bugs or contribute to the module's development on GitHub.
 License
-This module is licensed under [your chosen license] (e.g., GPLv2).
+This module is licensed under GPLv2.
